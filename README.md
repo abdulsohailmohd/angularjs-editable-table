@@ -6,10 +6,10 @@ Editable Table for AngularJS
 
 `npm install angularjs-editable-table --save`
 
-## Demo
+<!-- ## Demo
 `
 
-`
+` -->
 
 ## Setup
 
@@ -115,6 +115,5 @@ myApp.controller('myCtrl', function ($scope) {
         },
         pageLength: 10,
     };
-
 });
 `
