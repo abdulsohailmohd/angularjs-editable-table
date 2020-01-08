@@ -6,7 +6,7 @@ Editable Table for AngularJS
 
 `npm install angularjs-editable-table --save`
 
-## Example
+## Demo
 `
 
 `
@@ -14,11 +14,13 @@ Editable Table for AngularJS
 ## Setup
 
 1. Include script file in index.html
+
 `
 <script src="./node_modules/angularjs-editable-table/dist/editable-table.js"></script>
 `
 
 2. Configure your angular app
+
 `
 var myApp = angular.module('myApp', ['angularjs-editable-table']);
 `
