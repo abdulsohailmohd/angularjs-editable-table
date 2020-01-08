@@ -128,7 +128,7 @@ myApp.controller('myCtrl', function ($scope) {
 1. Pagination
 2. Search filter
 3. Column types
-4. 
+4. Required and type validation
 
 ## Limitations/ Future enhancements
 
