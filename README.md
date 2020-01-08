@@ -6,10 +6,9 @@ Editable Table for AngularJS
 
 `npm install angularjs-editable-table --save`
 
-<!-- ## Demo
-`
+## Demo
 
-` -->
+`https://angularjs-editable-table.firebaseapp.com/`
 
 ## Setup
 
@@ -129,6 +128,7 @@ myApp.controller('myCtrl', function ($scope) {
 2. Search filter
 3. Column types
 4. Required and type validation
+5. Unique column validation
 
 ## Limitations/ Future enhancements
 
