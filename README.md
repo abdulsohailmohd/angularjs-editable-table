@@ -15,9 +15,7 @@ Editable Table for AngularJS
 
 1. Include script file in index.html
 
-`
-<script src="./node_modules/angularjs-editable-table/dist/editable-table.js"></script>
-`
+`<script src="./node_modules/angularjs-editable-table/dist/editable-table.js"></script>`
 
 2. Configure your angular app
 
