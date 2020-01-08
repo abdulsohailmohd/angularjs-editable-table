@@ -27,7 +27,8 @@ Editable Table for AngularJS
 
 4. Configure editable table
 
-`myApp.controller('myCtrl', function ($scope) {
+```javascript
+myApp.controller('myCtrl', function ($scope) {
     $scope.data = data;
     $scope.dropdownData = [
         { "id": 1, "name": "Micheil" },
@@ -108,4 +109,5 @@ Editable Table for AngularJS
         },
         pageLength: 10,
     };
-});`
+});
+```
