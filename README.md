@@ -15,15 +15,21 @@ Editable Table for AngularJS
 
 1. Include script file in index.html
 
-`<script src="./node_modules/angularjs-editable-table/dist/editable-table.js"></script>`
+```html
+<script src="./node_modules/angularjs-editable-table/dist/editable-table.js"></script>
+```
 
 2. Configure your angular app
 
-`var myApp = angular.module('myApp', ['angularjs-editable-table']);`
+```javascript
+var myApp = angular.module('myApp', ['angularjs-editable-table']);
+```
 
 3. Create editable table
 
-`<div editable-table form-instance="formInstance" data="data" options="options" heading="Optional Heading">`
+```html
+<div editable-table form-instance="formInstance" data="data" options="options" heading="Optional Heading">
+```
 
 4. Configure editable table
 
