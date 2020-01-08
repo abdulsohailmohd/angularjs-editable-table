@@ -19,20 +19,15 @@ Editable Table for AngularJS
 
 2. Configure your angular app
 
-`
-var myApp = angular.module('myApp', ['angularjs-editable-table']);
-`
+`var myApp = angular.module('myApp', ['angularjs-editable-table']);`
 
 3. Create editable table
 
-`
-<div editable-table form-instance="formInstance" data="data" options="options" heading="Optional Heading">
-`
+`<div editable-table form-instance="formInstance" data="data" options="options" heading="Optional Heading">`
 
 4. Configure editable table
 
-`
-myApp.controller('myCtrl', function ($scope) {
+`myApp.controller('myCtrl', function ($scope) {
     $scope.data = data;
     $scope.dropdownData = [
         { "id": 1, "name": "Micheil" },
@@ -113,5 +108,4 @@ myApp.controller('myCtrl', function ($scope) {
         },
         pageLength: 10,
     };
-});
-`
+});`
