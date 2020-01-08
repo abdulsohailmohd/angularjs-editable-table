@@ -16,6 +16,11 @@ Editable Table for AngularJS
 1. Include script file in index.html
 
 ```html
+<!-- Dependencies -->
+<script src="./node_modules/ui-bootstrap4/dist/ui-bootstrap-tpls.js"></script>
+<script src="./node_modules/jquery/dist/jquery.js"></script>
+
+<!-- Editable Table -->
 <script src="./node_modules/angularjs-editable-table/dist/editable-table.js"></script>
 ```
 
@@ -117,3 +122,14 @@ myApp.controller('myCtrl', function ($scope) {
     };
 });
 ```
+
+## Features
+
+1. Pagination
+2. Search filter
+3. Column types
+4. 
+
+## Limitations/ Future enhancements
+
+1. Column sorting
