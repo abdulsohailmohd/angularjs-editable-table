@@ -8,7 +8,7 @@ Editable Table for AngularJS
 
 ## Demo
 
-`https://angularjs-editable-table.firebaseapp.com/`
+[Live Example here](https://angularjs-editable-table.firebaseapp.com/)
 
 ## Setup
 
